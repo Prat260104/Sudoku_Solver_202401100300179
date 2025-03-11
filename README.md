@@ -54,4 +54,4 @@ is_valid(board, row, col, num): Checks if placing the number num at position (ro
 solve_sudoku(board): Solves the Sudoku puzzle using backtracking.
 input_board(): Takes user input to generate the Sudoku board.
 main(): The entry point of the program that runs the solver and displays the result.
-Example Input and Output
+Example Input and Output.
