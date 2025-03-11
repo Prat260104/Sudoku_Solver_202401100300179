@@ -8,34 +8,14 @@ The program accepts a Sudoku puzzle as input from the user.
 It uses the Backtracking algorithm to solve the puzzle.
 The solver checks whether placing a number in a specific cell is valid by ensuring it follows the rules of Sudoku (no repetition in the row, column, or 3x3 subgrid).
 The solution is printed to the console, showing the completed Sudoku board.
+
 Requirements
 Python 3.x
-Installation
-Clone the repository to your local machine:
-
-bash
-Copy
-git clone https://github.com/yourusername/sudoku-solver.git
-Navigate to the project directory:
-
-bash
-Copy
-cd sudoku-solver
-Ensure that you have Python 3.x installed. If not, download and install it from python.org.
 
 Usage
 To run the Sudoku solver:
 
-Open a terminal or command prompt in the project directory.
-Run the sudoku_solver.py script:
-bash
-Copy
-python sudoku_solver.py
-The program will prompt you to input the Sudoku puzzle row by row, using 0 to represent empty cells.
-After inputting the puzzle, the program will display the solved board (if a solution exists) or inform you that no solution exists.
-Example
-yaml
-Copy
+
 Enter the Sudoku puzzle row by row (use 0 for empty cells):
 Row 1: 5 3 0 0 7 0 0 0 0
 Row 2: 6 0 0 1 9 5 0 0 0
