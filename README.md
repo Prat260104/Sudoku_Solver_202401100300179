@@ -40,6 +40,18 @@ python sudoku_solver.py
 
 ---
 
+🤝 Contributing
+Feel free to fork this repo and improve it!
+You can add:
+
+🧮 GUI using Tkinter
+
+🧠 Puzzle generator
+
+📁 Load/save puzzles from files
+
+
+
 
 
 
