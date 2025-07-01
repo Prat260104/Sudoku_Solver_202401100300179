@@ -28,8 +28,8 @@ This project allows users to input their own Sudoku puzzles and solves them inst
 
 1. **Clone this repo**:
    ```bash
-   git clone https://github.com/Prat260104/sudoku-solver.git
-   cd sudoku-solver
+   git clone https://github.com/Prat260104/Sudoku_Solver_202401100300179.git
+   cd Sudoku_Solver_202401100300179
     ```
 
 2. Run the script:
